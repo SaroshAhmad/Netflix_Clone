@@ -1,10 +1,10 @@
 import React from 'react'
+import Home from './pages/Home/Home'
 
 const App = () => {
   return (
     <div>
-      <h1>Netflix Clone</h1>
-      <p>React + Firebase</p>
+      <Home />
     </div>
   )
 }
