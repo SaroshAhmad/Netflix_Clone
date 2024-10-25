@@ -5,6 +5,7 @@ const App = () => {
     <div>
       <h1>React App</h1>
       <p>Checking if my github is working</p>
+      <p>This is a para tag</p>
     </div>
   )
 }
